@@ -10,6 +10,6 @@ availability_zone = var.az
 key_name = "MY-LT-KEY"
 }
 
-variable "type" {}
-variable "az" {}
+variable type {}
+variable az {}
 
